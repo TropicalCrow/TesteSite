@@ -23,11 +23,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 3. Interessante
-
+```
 **Bold** and _Italic_ and `Code` text
 
 [Link](https://www.youtube.com/watch?v=lwoG7Cg1f5I&list=RDMMlwoG7Cg1f5I&start_radio=1) and ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDr7VLNjHh1fBFiLlkjA_hsd4JZCkJR5frMg&usqp=CAU)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
